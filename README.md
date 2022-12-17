@@ -10,5 +10,5 @@ The hazelnut is the fruit of the hazel tree and therefore includes any of the nu
 
 
 <div align="center">
-Wellcome to hazzelnuts's base repository site.
+Wellcome to hazzelnuts' base repository site.
 </div> 
